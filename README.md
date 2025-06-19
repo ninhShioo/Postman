@@ -4,7 +4,7 @@
 
 ### Ngày kiểm thử: 19/06/2025
 
-### Người kiểm thử: Cao Mậu Thành Đạt
+### Người kiểm thử: Nguyễn Tùng Ninh
 
 ### Phương Pháp Kiểm Thử: Kiểm thử tự động và thủ công trên phần mềm Postman.
 
